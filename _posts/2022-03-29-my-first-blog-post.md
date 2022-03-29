@@ -1,5 +1,4 @@
 ---
----
-title: "First-Add"
-date: 1997-09-22
+title: "Your blog post title"
+date: YYYY-MM-DD
 ---
