@@ -1,5 +1,5 @@
 My first blog posting
 ---
 title: "First-Add"
-date: YYYY-MM-DD
+date: 1997-09-22
 ---
